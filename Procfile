@@ -1,1 +1,1 @@
-worker: python examples/echo_bot.py
+worker: python echo_bot.py
