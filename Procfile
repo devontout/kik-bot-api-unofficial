@@ -1,1 +1,1 @@
-worker: python setup.py
+worker: python examples/echo_bot.py
