@@ -8,8 +8,8 @@ from kik_unofficial.datatypes.xmpp.chatting import IncomingChatMessage, Incoming
 from kik_unofficial.datatypes.xmpp.roster import FetchRosterResponse
 from kik_unofficial.datatypes.xmpp.login import ConnectionFailedResponse
 
-username = 'username'
-password = 'password'
+username = 'mc_twin'
+password = 'mc_twin'
 
 friends = {}
 
