@@ -3,9 +3,11 @@ import time
 
 from kik_unofficial.client_legacy import KikClient
 
+username = 'mc_twin'
+password = 'mc_twin'
+
 
 def main():
-    username, password = "mc_twin", "mc_twin"
     kik_client = KikClient(username, password)
 
     chat_partners = kik_client.get_chat_partners()
