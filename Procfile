@@ -1,2 +1,2 @@
-worker: python echo_bot.py
+worker: python examples/legacy/send_message_legacy.py
 
