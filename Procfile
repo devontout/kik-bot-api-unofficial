@@ -1,2 +1,2 @@
-worker: python examples/legacy/send_message_legacy.py
+worker: python examples/legacy/cmdline_legacy.py
 
