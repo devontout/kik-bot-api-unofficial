@@ -1,1 +1,1 @@
-worker: python kik-bot-api-unofficial.py
+worker: python echo_bot.py
