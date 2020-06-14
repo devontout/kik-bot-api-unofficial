@@ -1,2 +1,2 @@
-worker: python examples/legacy/cmdline_legacy.py
+worker: kik-bot-api-unofficial/echo_bot.py
 
