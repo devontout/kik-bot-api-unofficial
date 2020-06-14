@@ -14,13 +14,6 @@ from kik_unofficial.datatypes.xmpp.login import LoginResponse, ConnectionFailedR
 username = 'mc_twin'
 password = 'mc_twin'
 
-@client.event
-async def on_message(message):
-    
-    if message.content == 'ping':
-        await client.send_message(message.channel,'pong')
-    if message.content == 'Ping':
-        await client.send_message(message.channel,'pong')
 
 def main():
     bot = EchoBot()
