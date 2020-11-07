@@ -1,3 +1,4 @@
-worker: python echo_bot.py
+worker: interactive_client.py
+
 
 
