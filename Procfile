@@ -1,4 +1,4 @@
-worker: interactive_client.py
+worker: int.py
 
 
 
